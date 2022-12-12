@@ -1,8 +1,8 @@
 function Header() {
   return (
-    <div>
-        Header Area
-    </div>
+    <>
+      <div></div>
+    </>
   );
 }
 
